@@ -9,12 +9,12 @@ title = "Natural Language Processing"
 
 [[sources]]
 limit = 150
-category = "cs.CL"
+category = "cs.MT"
 title = "Machine Transaltion"
 
 [[sources]]
 limit = 150
-category = "cs.CL"
+category = "cs.NAT"
 title = "Non-Autoregressive Translation"
 
 [[sources]]
